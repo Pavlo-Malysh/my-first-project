@@ -1,2 +1,2 @@
 # my-first-project
-This is my first work project!
+This is my work project!
